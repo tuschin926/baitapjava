@@ -1,0 +1,2 @@
+Day la thread 1 
+Con toi la thread 2
